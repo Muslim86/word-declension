@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-delcension/static/css/main.b84d6a42.css",
+    "main.js": "/word-delcension/static/js/main.59197106.js",
+    "static/js/787.ef1214ef.chunk.js": "/word-delcension/static/js/787.ef1214ef.chunk.js",
+    "index.html": "/word-delcension/index.html",
+    "main.b84d6a42.css.map": "/word-delcension/static/css/main.b84d6a42.css.map",
+    "main.59197106.js.map": "/word-delcension/static/js/main.59197106.js.map",
+    "787.ef1214ef.chunk.js.map": "/word-delcension/static/js/787.ef1214ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84d6a42.css",
+    "static/js/main.59197106.js"
+  ]
+}
