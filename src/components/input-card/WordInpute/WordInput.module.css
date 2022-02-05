@@ -28,7 +28,12 @@
     padding-bottom: 7px;
     cursor: pointer;
     user-select: none;
+}
 
+@media (max-width: 550px) {
+    .clear {
+        padding-bottom: 4px;
+    }
 }
 
 .clear:hover {
