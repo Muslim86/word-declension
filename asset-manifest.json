@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/word-declension/static/css/main.b84d6a42.css",
+    "main.css": "/word-declension/static/css/main.0993d72b.css",
     "main.js": "/word-declension/static/js/main.74d2aa21.js",
     "static/js/787.ef1214ef.chunk.js": "/word-declension/static/js/787.ef1214ef.chunk.js",
     "index.html": "/word-declension/index.html",
-    "main.b84d6a42.css.map": "/word-declension/static/css/main.b84d6a42.css.map",
+    "main.0993d72b.css.map": "/word-declension/static/css/main.0993d72b.css.map",
     "main.74d2aa21.js.map": "/word-declension/static/js/main.74d2aa21.js.map",
     "787.ef1214ef.chunk.js.map": "/word-declension/static/js/787.ef1214ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84d6a42.css",
+    "static/css/main.0993d72b.css",
     "static/js/main.74d2aa21.js"
   ]
 }
